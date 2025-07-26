@@ -1,0 +1,344 @@
+[
+  {
+    "trigger_word": "geus",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "can",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "bari",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "keur",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "biasa",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "mindeng",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "langka",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "sakapeung",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "beunang",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "geura",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "geuwat",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "kudu",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "masing",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "ulah",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "urang",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "rek",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "kudu",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "meunang",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "bisa",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "pasti",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "am",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "blug",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "pok",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "jung",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "jleng",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "acan",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "arek",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "enggeus",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "henteu",
+    "trigger_label": "NEG",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "tara",
+    "trigger_label": "NEG",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "mun",
+    "trigger_label": "MD",
+    "target": "next",
+    "expected_label": "RB"
+  },
+  {
+    "trigger_word": "bray",
+    "trigger_label": "IN",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "reup",
+    "trigger_label": "IN",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "lat",
+    "trigger_label": "IN",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "tep",
+    "trigger_label": "IN",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "cep",
+    "trigger_label": "IN",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "bae",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "deui",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "lila",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "sakeudeung",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "heula",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "oge",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "bae",
+    "trigger_label": "RB",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "deui",
+    "trigger_label": "RB",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "lila",
+    "trigger_label": "RB",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "heula",
+    "trigger_label": "RB",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "oge",
+    "trigger_label": "RB",
+    "target": "prev",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "rada",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "leuwih",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "kacida",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "teuing",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "naker",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "temen",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "eukeur",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "VB"
+  },
+  {
+    "trigger_word": "kabina-bina",
+    "trigger_label": "RP",
+    "target": "prev",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "tapi",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "JJ"
+  },
+  {
+    "trigger_word": "ngan",
+    "trigger_label": "RP",
+    "target": "next",
+    "expected_label": "CD"
+  }
+]

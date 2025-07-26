@@ -1,0 +1,121 @@
+[
+  {
+    "prefix": "ba",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ti",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pada",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ting",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pada",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ting",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ti",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ba",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mi",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mi",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ba",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pada",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pada",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  }
+]

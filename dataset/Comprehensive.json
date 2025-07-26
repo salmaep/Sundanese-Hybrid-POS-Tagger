@@ -1,0 +1,1598 @@
+[
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pri",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pari",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "per",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pang",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "per",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pang",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pari",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pang",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "MD",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ba",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "si",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ti",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ting",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ma",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ba",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "si",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ma",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mang",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "KG",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "a",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "dipi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "dipika",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ting",
+    "infix": "",
+    "suffix": "",
+    "root_label": "RP",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ting",
+    "infix": "",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "ba",
+    "infix": "",
+    "suffix": "",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "mang",
+    "infix": "",
+    "suffix": "",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "RB",
+    "result_label": "RB"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "si",
+    "infix": "",
+    "suffix": "",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "pra",
+    "infix": "",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "in",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "in",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "RP",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "in",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "PR",
+    "result_label": "PR"
+  },
+  {
+    "prefix": "",
+    "infix": "in",
+    "suffix": "",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "CD",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "PR",
+    "result_label": "PR"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "PR",
+    "result_label": "PR"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "NN",
+    "result_label": "PR"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "WDT",
+    "result_label": "WDT"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "ing",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "ing",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "JJ",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "ing",
+    "root_label": "JJ",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "a",
+    "root_label": "MD",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "ba",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ti",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pada",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ting",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pada",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ting",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ti",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ba",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mi",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mi",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ba",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pada",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pada",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "per",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pang",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "a",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "per",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mang",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "si",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "mang",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "nyang",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "WDT",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pa",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pang",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pi",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pika",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pada",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "ka",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "pika",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "RP",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "pang",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "RB",
+    "result_label": "RB"
+  },
+  {
+    "prefix": "di",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "WDT",
+    "result_label": "WDT"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "ning",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "VB",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "sa",
+    "infix": "",
+    "suffix": "ning",
+    "root_label": "JJ",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "pang",
+    "infix": "um",
+    "suffix": "na",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "di",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "ka",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "VB"
+  }
+]

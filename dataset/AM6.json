@@ -1,0 +1,79 @@
+[
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "an",
+    "root_label": "CD",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "keun",
+    "root_label": "CD",
+    "result_label": "VB"
+  }
+]

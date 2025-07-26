@@ -1,0 +1,261 @@
+[
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "JJ",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "CD",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "CD",
+    "result_label": "CD"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "PR",
+    "result_label": "PR"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "PR",
+    "result_label": "PR"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "NN",
+    "result_label": "PR"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "WDT",
+    "result_label": "WDT"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "ing",
+    "root_label": "RP",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "an",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "ing",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "eun",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "keun",
+    "root_label": "NN",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "na",
+    "root_label": "JJ",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "ing",
+    "root_label": "JJ",
+    "result_label": "RP"
+  },
+  {
+    "prefix": "",
+    "infix": "",
+    "suffix": "a",
+    "root_label": "MD",
+    "result_label": "RP"
+  }
+]

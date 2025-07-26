@@ -1,0 +1,121 @@
+[
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "NN"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "in",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "in",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "RP",
+    "result_label": "VB"
+  },
+  {
+    "prefix": "",
+    "infix": "al",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "JJ",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "in",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "NN",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "um",
+    "suffix": "",
+    "root_label": "VB",
+    "result_label": "JJ"
+  },
+  {
+    "prefix": "",
+    "infix": "ar",
+    "suffix": "",
+    "root_label": "PR",
+    "result_label": "PR"
+  },
+  {
+    "prefix": "",
+    "infix": "in",
+    "suffix": "",
+    "root_label": "RP",
+    "result_label": "RP"
+  }
+]
